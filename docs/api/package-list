@@ -2,6 +2,7 @@ mil.nga.geopackage
 mil.nga.geopackage.db
 mil.nga.geopackage.db.metadata
 mil.nga.geopackage.extension.index
+mil.nga.geopackage.extension.link
 mil.nga.geopackage.factory
 mil.nga.geopackage.features.index
 mil.nga.geopackage.features.user
